@@ -25,16 +25,6 @@ Apos a criação do Integration runtime é feita a conexão no linked service, c
 
 
 
-Insights
-- Integração Entre Regiões: Com o Data Factory, é possível copiar dados entre regiões geográficas diferentes para maior proteção contra desastres.
-- Processamento Personalizado: Ao integrar transformações no pipeline, você pode ajustar os arquivos conforme suas necessidades antes de replicá-los.
-- Escalabilidade: O Data Factory lida bem com grandes volumes de dados, garantindo processos robustos mesmo em ambientes com alta demanda.
-
-
-Possibilidades
-- Resiliência Operacional: A combinação de redundância com automação garante que os dados estejam sempre disponíveis, mesmo em cenários de falha.
-- Redundância em Multinuvens: O Data Factory pode se conectar a outras plataformas, permitindo criar processos híbridos e ainda mais resilientes.
-- Gestão Centralizada: O Data Factory possibilita gerenciar redundância e replicação em grande escala, tudo a partir de um único ambiente.
 
 
 
